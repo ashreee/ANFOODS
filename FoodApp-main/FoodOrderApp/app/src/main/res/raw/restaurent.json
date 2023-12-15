@@ -1,0 +1,303 @@
+[
+    {
+      "name":"THE HOUSE OF FOOD",
+      "address":" Gandhinagar, Sullia",
+      "delivery_charge": 5,
+      "image":"https://images.unsplash.com/flagged/photo-1556742524-750f2ab99913?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpbmVzZSUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Chicken Biriyani",
+          "price": 70.00,
+          "url": "https://geekrobocook.com/wp-content/uploads/2021/03/Tandoori-chicken-biryani.jpg"
+        },
+        {
+          "name": "Poori",
+          "price": 40.00,
+          "url": "https://cdn.cdnparenting.com/articles/2020/02/26144721/PURI-BHAJI-RECIPE.webp"
+        },
+        {
+          "name": "Dosa",
+          "price": 30.00,
+          "url": "https://m.media-amazon.com/images/I/81XVpZVOdcL._AC_UF1000,1000_QL80_.jpg"
+        },
+
+
+        {
+          "name": "Chinese Noodles",
+          "price":80.00 ,
+          "url": "https://thesaltymarshmallow.com/wp-content/uploads/2018/11/ramen-noodles-featured.jpg"
+        },
+
+        {
+          "name": "Vegetable fried rice",
+          "price": 70.00,
+          "url": "https://www.ticklingpalates.com/wp-content/uploads/2020/05/fried-rice-using-veggies.jpg"
+        },
+
+        {
+          "name": "Idli",
+          "price": 30.00,
+          "url": "https://cdn.pixabay.com/photo/2017/06/16/11/38/breakfast-2408818_960_720.jpg"
+        }
+
+      ]
+    },
+  {
+    "name":"JUICE CORNER ",
+    "address":"KVG Campus,Sullia",
+    "delivery_charge": 5,
+    "image":"https://s3.envato.com/files/332954828/Vertical%20view%20of%20delicious%20(fresh%20juices%20)and%20fruits%20on%20a%20wooden%20tray%20on%20a%20brown%20background.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+
+      {
+        "name": "Green Apple Mojito",
+        "price": 60.00,
+        "url": "https://bakeoholicrestocafe.com/wp-content/uploads/2022/06/green-apple-mojito.png"
+      },
+      {
+        "name": "Chocolate Milk Shake ",
+        "price": 90.00,
+        "url": "https://media.istockphoto.com/id/477812744/photo/chocolate-milkshake-on-rustic-wood-table.jpg?s=612x612&w=0&k=20&c=sUQI2qNzYorRM8lwDeXiwoGA6gNFKSTOXaytWY1N39w="
+      },
+      {
+        "name": "Blueberry MilkShake",
+        "price": 90.00,
+        "url": "https://static.toiimg.com/photo/84226147.cms"
+      },
+
+      {
+        "name": "Guava mojito ",
+        "price": 80.00,
+        "url": "https://i0.wp.com/www.sweetteaandthyme.com/wp-content/uploads/2022/04/Guava-Mojitos-recipe.jpg?fit=735%2C735&ssl=1https://i0.wp.com/www.sweetteaandthyme.com/wp-content/uploads/2022/04/Guava-Mojitos-recipe.jpg?fit=735%2C735&ssl=1"
+      },
+      {
+        "name": "Mango juice ",
+
+        "price": 70.00,
+        "url": "https://st4.depositphotos.com/7893620/27828/i/600/depositphotos_278281300-stock-photo-mango-juice-cocktail-glass-jar.jpg"
+      },
+
+
+      {
+        "name": "Avacado Smoothie",
+        "price": 90.00,
+        "url": "https://media.istockphoto.com/id/1318624206/photo/avacado-smoothie.webp?b=1&s=170667a&w=0&k=20&c=46B8TE9y12gYYqXL37rfobMkemoj8ZJ_AFwkQrUNGEg="
+      }
+    ]
+  },
+  {
+    "name":"DESSERT DEDICATION",
+    "address":"Puttur ,Jyothi circle",
+    "delivery_charge": 5,
+    "image":"https://img.freepik.com/free-photo/vertical-shot-delicious-cupcakes-with-cream-powdered-sugar-cherry-top-books_181624-28944.jpg?w=2000",
+    "hours": {
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Falooda",
+        "price": 90.00,
+        "url": "https://img.atlasobscura.com/Abep3cz-E-oTpCPSDY9BlRDkYgicvXR1uuB89Jqv1mA/rs:fill:580:580:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy9iYjlm/OWM5Zi1hMDdmLTRk/OGEtOGQ5Yi1jNmYw/YjZiM2U1ZDhhZThk/N2U3ODY2NjU1M2Uz/YTNfNDk0ODAxMjRf/MjAwNTkzODI0OTUw/MjUzOF8yODcwODM0/NzM0NzUzMjQ4NTQ1/X24uanBn.jpg"
+      },
+      {
+        "name": "Kunafa",
+        "price": 120.00,
+        "url": "https://kunafaworld.com/assets/img/ser/CLASSIC-CREAM-KUNAFA.jpg"
+      },
+      {
+        "name": "Gulabjamun",
+        "price": 50.00,
+        "url": "https://media.istockphoto.com/id/163064596/photo/gulab-jamun.jpg?s=612x612&w=0&k=20&c=JvJ4AAs-N5pRzzRmVg1lG0talC3QoUt0ZGiO1NKz-kQ="
+      },
+      {
+        "name": "Rasmalai",
+        "price": 70.00,
+        "url": "https://media.istockphoto.com/id/515853026/id/foto/rasmalai-tradisional-atau-ras-malai-makanan-penutup-india-bengali-manis.jpg?s=612x612&w=0&k=20&c=v0ON8Ert3nCbbtlHXc4tsl5Pc34NGB42WChhDy3sMkQ="
+      },
+      {
+        "name": "Mango pudding",
+        "price": 65.00,
+        "url": "https://www.lacademie.com/wp-content/uploads/2021/07/mango-desserts.jpg"
+      },
+
+      {
+        "name": "custard",
+        "price": 60.00,
+        "url": "https://www.yummyoyummy.com/wp-content/uploads/2022/03/fruit-custard-scaled.jpg"
+      }
+
+    ]
+  },
+  {
+    "name":"BREAD TALKS",
+    "address":"Puttur, near St.Philomena college",
+    "delivery_charge": 5,
+    "image":"https://media.istockphoto.com/id/888154458/fr/photo/pizza-et-hamburger-sur-fond-en-bois.jpg?s=612x612&w=0&k=20&c=GIqkoyImdNMFrFBHP9WthwYohDTvz3_5B74Yup2TvuE=",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Pizza",
+        "price": 99.00,
+        "url": "https://latavernedicietdailleurs.files.wordpress.com/2016/11/pizza.jpg?w=1200"
+      },
+      {
+        "name": "Burger",
+        "price": 90.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Nuggets",
+        "price": 65.00,
+        "url": "https://www.waitoafreerange.co.nz/wp-content/uploads/Waitoa-Chicken-Nuggets.jpg"
+      },
+      {
+        "name": "French Fries",
+        "price": 60.00,
+        "url": "https://www.healthifyme.com/blog/wp-content/uploads/2022/07/shutterstock_1927479248-1.jpg"
+      },
+      {
+        "name": "Chicken Sandwich",
+        "price": 60.00,
+        "url": "https://wallpapercave.com/wp/wp7481544.jpg"
+      },
+      {
+        "name": "Chicken roll",
+        "price": 45.00,
+        "url": "https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/60f2ea67b471327a1d82959b_chicken%20roll_1500%20x%201200.jpg"
+      }
+
+
+    ]
+  },
+    {
+      "name":"STREET SURPRISE",
+      "address":"Sullia, near Bus stand",
+      "delivery_charge": 4,
+      "image":"https://t3.ftcdn.net/jpg/04/39/28/24/360_F_439282491_2jFs1XSPAgW3NmxxvHeLZA5vAijmzU7r.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Golgappa",
+          "price": 10.00,
+          "url": "https://t4.ftcdn.net/jpg/03/05/35/65/360_F_305356563_RjpA8bNIfjd2s78JpTt3Ed6hKWPUBOwS.jpg"
+        },
+        {
+          "name": "Panipuri",
+          "price": 30.00,
+          "url": "https://images.slurrp.com/prodarticles/u3x16eykjs.webp"
+        },
+        {
+          "name": "Masalpuri",
+          "price": 30.00,
+          "url": "https://1.bp.blogspot.com/-0ls05b7nYBM/Xc4yVF-d0eI/AAAAAAAAFeU/YOGCQ_4Jd98ykIyAOvtXtWJjWC_kgC2NwCLcBGAsYHQ/s1600/DSC07909.JPG"
+        },
+        {
+          "name": "Dahipuri",
+          "price": 25.00,
+          "url": "https://www.masalabox.com/wp-content/uploads/2022/10/dahi-puri-chat-is-indian-road-side-snack-item-which-is-especially-popular-state-maharashtra-india-scaled.webp"
+        },
+        {
+          "name": "Gobimanchurian",
+          "price": 60.00,
+          "url": "https://www.palatesdesire.com/wp-content/uploads/2022/09/dry-gobi-manchurian-recipe@palates-desire.jpg"
+        },
+        {
+          "name": "Belpuri",
+          "price": 40.00,
+          "url": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/bhel-puri.jpg"
+        }
+
+      ]
+    },
+
+  {
+    "name":"TASTY PASTRY",
+    "address": "Jyothi circle,Sullia",
+    "delivery_charge": 6,
+    "image": "https://i.pinimg.com/736x/fd/b7/ea/fdb7ead15bd3d60fe4f43f37d1f17459.jpg",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Macarons",
+        "price": 90.00,
+        "url": "https://images.pexels.com/photos/239578/pexels-photo-239578.jpeg?cs=srgb&dl=pexels-brigitte-tohm-239578.jpg&fm=jpg"
+      },
+      {
+        "name": "Brownies",
+        "price": 80.00,
+        "url": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?cs=srgb&dl=pexels-pixabay-45202.jpg&fm=jpg"
+      },
+      {
+        "name": "Cheese-cake",
+        "price": 149.00,
+        "url": "https://media.istockphoto.com/id/1205169550/photo/cheesecake-slice-with-strawberries.jpg?s=612x612&w=0&k=20&c=Vr9g9CMxNQuHDlMwjgOiUxQtABSAp8KeYR7bfUZpeMs="
+      },
+      {
+        "name": "Cupcakes",
+        "price": 60.00,
+        "url": "https://www.rainbownourishments.com/wp-content/uploads/2023/02/vegan-red-velvet-cupcakes-1.jpg"
+      },
+      {
+        "name": "Donuts ",
+        "price": 45.00,
+        "url": "https://c4.wallpaperflare.com/wallpaper/523/592/852/donuts-cakes-glaze-donuts-hd-wallpaper-preview.jpg"
+      },
+      {
+        "name": "Sizzlers",
+        "price": 120.00,
+        "url": "https://cdn.pixabay.com/photo/2017/05/25/09/42/brownie-2342762_1280.jpg"
+      }
+    ]
+  }
+  ]
